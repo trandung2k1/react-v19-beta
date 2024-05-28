@@ -1,8 +1,9 @@
 // Not using forward ref
 // eslint-disable-next-line react/prop-types
 const Demo = ({ placeholder, ref }) => {
+    console.log('Render or re-render');
     // using react compiler
-    'use memo';
+    ('use memo');
     return <input placeholder={placeholder} ref={ref} />;
     // return (
     //     <a

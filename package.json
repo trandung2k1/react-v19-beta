@@ -11,8 +11,8 @@
     },
     "dependencies": {
         "babel-plugin-react-compiler": "^0.0.0-experimental-592953e-20240517",
-        "react": "^19.0.0-beta-26f2496093-20240514",
-        "react-dom": "^19.0.0-beta-26f2496093-20240514"
+        "react": "^19.0.0-rc-935180c7e0-20240524",
+        "react-dom": "^19.0.0-rc-935180c7e0-20240524"
     },
     "devDependencies": {
         "@vitejs/plugin-react": "^4.2.1",
